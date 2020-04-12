@@ -11,6 +11,7 @@
     <modules>
         <module>jvm-juc</module>
         <module>spark-ml</module>
+        <module>hadoop</module>
     </modules>
 
 
