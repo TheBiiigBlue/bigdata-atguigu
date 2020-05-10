@@ -12,6 +12,10 @@
         <module>jvm-juc</module>
         <module>spark-ml</module>
         <module>hadoop</module>
+        <module>kafka</module>
+        <module>spark</module>
+        <module>hive</module>
+        <module>hbase</module>
     </modules>
 
 
