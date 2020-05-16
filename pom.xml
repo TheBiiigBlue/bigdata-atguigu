@@ -16,6 +16,8 @@
         <module>spark</module>
         <module>hive</module>
         <module>hbase</module>
+        <module>log-collector</module>
+        <module>flume</module>
     </modules>
 
 
